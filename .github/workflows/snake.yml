@@ -13,7 +13,9 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: Lucascolombo-qa
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
