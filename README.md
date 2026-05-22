@@ -1,4 +1,4 @@
-# Olá, eu sou o Lucas Neves Colombo! 👋
+# Olá, eu sou o Lucas Colombo! 👋
 
 ## 🚀 Sobre Mim
 Sou um **Analista de Testes / QA** focado em garantir a qualidade, confiabilidade e o valor das entregas de software. Atuo na validação de ponta a ponta, analisando desde os critérios de aceitação de **User Stories** completas até a execução de testes funcionais, de API e automação.
