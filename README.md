@@ -17,6 +17,9 @@ Acredito que a qualidade não acontece apenas no final do processo, por isso gos
 *   **Testes de API:** Postman (Validação de Status Codes, Payloads, JSON/XML).
 *   **Banco de Dados:** SQL Server (Escrita de queries para validação de dados).
 *   **Controle de Versão:** Git (Experiência com fluxo Gitflow).
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />&nbsp;
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />&nbsp;
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
 
 
@@ -29,7 +32,13 @@ Acredito que a qualidade não acontece apenas no final do processo, por isso gos
 *   [Link para o Repositório](url-do-repositorio)
 
 
-## 📫 Conecte-se Comigo
+## 📬 Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-neves-3b807225a/)
+<a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
+<br><br>
+
+* ✉️ **E-mail Profissional:** [colombo.neves.lucas@gmail.com](mailto:colombo.neves.lucas@gmail.com)
+* 💼 **LinkedIn:** [Acesse meu perfil profissional](https://www.linkedin.com/in/lucas-neves-3b807225a/)
