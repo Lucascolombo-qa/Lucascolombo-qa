@@ -14,9 +14,6 @@ Acredito que a qualidade não acontece apenas no final do processo, por isso gos
 *   **Metodologias:** Scrum, Kanban, Engenharia de Requisitos (Análise de Critérios de Aceitação).
 
 ### 💻 Tecnologias
-*   **Testes de API:** Postman (Validação de Status Codes, Payloads, JSON/XML).
-*   **Banco de Dados:** SQL Server (Escrita de queries para validação de dados).
-*   **Controle de Versão:** Git (Experiência com fluxo Gitflow).
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />&nbsp;  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />&nbsp;  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
 
@@ -34,6 +31,10 @@ Acredito que a qualidade não acontece apenas no final do processo, por isso gos
 
 <a href="https://www.linkedin.com/in/lucas-neves-3b807225a/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="mailto:colombo.neves.lucas@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 <br>
