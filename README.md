@@ -32,10 +32,9 @@ Acredito que a qualidade não acontece apenas no final do processo, por isso gos
 
 ## 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucascolombo-qa&show_icons=true&theme=gotham" height="150" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucascolombo-qa&layout=compact&theme=gotham" height="150" alt="top langs card" />
-</p>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Lucascolombo-qa&show_icons=true&theme=gotham)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucascolombo-qa&layout=compact&theme=gotham)
 
 
 
