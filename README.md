@@ -13,7 +13,7 @@ Acredito que a qualidade não acontece apenas no final do processo, por isso gos
 *   **Tipos de Teste:** Testes Funcionais, Regressão, Sanidade, Caixa Preta, Exploratórios.
 *   **Metodologias:** Scrum, Kanban, Engenharia de Requisitos (Análise de Critérios de Aceitação).
 
-### 💻 Tecnologia & Automação
+### 💻 Tecnologias
 *   **Testes de API:** Postman (Validação de Status Codes, Payloads, JSON/XML).
 *   **Banco de Dados:** SQL Server (Escrita de queries para validação de dados).
 *   **Controle de Versão:** Git (Experiência com fluxo Gitflow).
