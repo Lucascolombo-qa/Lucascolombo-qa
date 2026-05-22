@@ -26,16 +26,7 @@ Acredito que a qualidade não acontece apenas no final do processo, por isso gos
 *   **Descrição:** [Ex: Framework de testes automatizados ponta a ponta para uma plataforma de e-commerce fictícia.]
 *   **O que fiz:** Escrita dos cenários de teste em BDD (Gherkin), automação do fluxo de login e checkout, e validação de requisições de API.
 *   **Tecnologias:** [Ex: Cypress, JavaScript, Postman].
-*   👉 [Link para o Repositório](url-do-repositorio)
-
-
-
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Lucascolombo-qa&show_icons=true&theme=gotham)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucascolombo-qa&layout=compact&theme=gotham)
-
+*   [Link para o Repositório](url-do-repositorio)
 
 
 ## 📫 Conecte-se Comigo
