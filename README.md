@@ -1,11 +1,11 @@
-# Olá, eu sou o [Lucas Neves Colombo]! 👋
+# Olá, eu sou o Lucas Neves Colombo! 👋
 
 ## 🚀 Sobre Mim
 Sou um **Analista de Testes / QA** focado em garantir a qualidade, confiabilidade e o valor das entregas de software. Atuo na validação de ponta a ponta, analisando desde os critérios de aceitação de **User Stories** completas até a execução de testes funcionais, de API e automação.
 
 Acredito que a qualidade não acontece apenas no final do processo, por isso gosto de trabalhar em estreita colaboração com times de desenvolvimento utilizando metodologias ágeis e fluxos de trabalho organizados (como **Gitflow**).
 
----
+
 
 ## 🛠️ Habilidades & Ferramentas
 
@@ -18,9 +18,9 @@ Acredito que a qualidade não acontece apenas no final do processo, por isso gos
 *   **Banco de Dados:** SQL Server (Escrita de queries para validação de dados).
 *   **Controle de Versão:** Git (Experiência com fluxo Gitflow).
 
----
 
-## 📂 Projetos em Destaque
+
+## 📂 Projetos em Destaque (Em andamento)
 
 ### 1. [Nome do seu principal repositório de testes]
 *   **Descrição:** [Ex: Framework de testes automatizados ponta a ponta para uma plataforma de e-commerce fictícia.]
@@ -28,13 +28,7 @@ Acredito que a qualidade não acontece apenas no final do processo, por isso gos
 *   **Tecnologias:** [Ex: Cypress, JavaScript, Postman].
 *   👉 [Link para o Repositório](url-do-repositorio)
 
-### 2. [Nome de outro projeto, ex: Repositório de Bugs ou Plano de Testes]
-*   **Descrição:** [Ex: Documentação de um plano de testes completo, mapas mentais e relatórios de bugs encontrados em uma aplicação real/fictícia.]
-*   **O que fiz:** Mapeamento de cenários, escrita de casos de teste no Excel/Jira e abertura de reports detalhados de bugs (com evidências, comportamento esperado vs atual).
-*   **Tecnologias:** [Ex: Cypress, JavaScript, Postman].
-*   👉 [Link para o Repositório](url-do-repositorio)
 
----
 
 ## 📊 Estatísticas do GitHub
 
@@ -43,8 +37,9 @@ Acredito que a qualidade não acontece apenas no final do processo, por isso gos
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucascolombo-qa&layout=compact&theme=gotham" height="150" alt="top langs card" />
 </p>
 
----
+
 
 ## 📫 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-neves-3b807225a/)
+
