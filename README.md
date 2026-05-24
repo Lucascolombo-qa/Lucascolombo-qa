@@ -2,7 +2,7 @@
 
 ## 👤​ Sobre mim
 Sou um **Analista de Testes** focado em garantir a qualidade, confiabilidade e o valor das entregas de software. Atuo na validação de ponta a ponta, analisando desde os critérios de aceitação de **User Stories** completas até a execução de testes funcionais, de API e estou estudando a parte de automação.
-Acredito que a qualidade não acontece apenas no final do processo, por isso gosto de trabalhar em estreita colaboração com times de desenvolvimento utilizando metodologias ágeis e fluxos de trabalho organizados (como **Gitflow**).
+Acredito que a qualidade não acontece apenas no final do processo, por isso gosto de trabalhar em estreita colaboração com times de desenvolvimento utilizando metodologias ágeis e fluxos de trabalho organizados, como  o Gitflow.
 
 
 
