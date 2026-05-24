@@ -12,7 +12,7 @@ Acredito que a qualidade não acontece apenas no final do processo, por isso gos
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />&nbsp; <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />&nbsp; <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp; <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />&nbsp; <img src="https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />&nbsp;
 
 
-## 📂 Projetos em destaque (Em andamento)
+## 📂 Meus projetos (Em andamento)
 
 
 ### 1. [Projeto 1]
