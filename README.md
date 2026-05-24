@@ -21,6 +21,9 @@ Acredito que a qualidade não acontece apenas no final do processo, por isso gos
 *   [Link para o Repositório](url-do-repositorio)
 
 
+## 🎓 Certificações
+*   Análise e desenvolvimento de sistemas - Unisinos (Em andamento).
+
 ## 📞 Meus contatos
 
 <a href="https://www.linkedin.com/in/lucas-neves-3b807225a/" target="_blank">
