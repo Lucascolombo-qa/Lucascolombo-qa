@@ -17,13 +17,13 @@ Acredito que a qualidade não acontece apenas no final do processo, por isso gos
 ## 📂 Meus projetos
 
 
-### 🚀 API Testing 01: ServeRest
+### 🚀 API Testing 01 - ServeRest Project
 * **Descrição:** Automação de testes de ponta a ponta (E2E) em uma API REST de e-commerce. O foco foi garantir a integridade dos dados e a qualidade das funcionalidades críticas do sistema.
 * **Principais atividades:**
     * Automação de fluxos de login e checkout.
     * Validações de status codes, schema e corpo de resposta com Postman e JavaScript.
 * **Tecnologias:** Postman e JavaScript.
-* 🔗 **[Link do projeto](https://github.com/Lucascolombo-qa/api-testing-01-serverest/tree/main)**
+* **[Link do projeto](https://github.com/Lucascolombo-qa/api-testing-01-serverest/tree/main)**
 
 
 
