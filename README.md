@@ -14,13 +14,13 @@ Acredito que a qualidade não acontece apenas no final do processo, por isso gos
 
 
 
-## 📂 Meus projetos (Em andamento)
+## 📂 Meus projetos
 
 
-### 1. Projeto 1
+### 1. Api Testing 01 ServeRest - Project
 *   **Descrição:** [Framework de testes automatizados ponta a ponta para uma plataforma de e-commerce fictícia.]
 *   **O que foi feito:** Escrita dos cenários de teste em BDD (Gherkin), automação do fluxo de login e checkout, e validação de requisições de API usando o framework Postman.
-*   [Link para o Repositório](url-do-repositorio)
+*   [Link para o Repositório]((https://github.com/Lucascolombo-qa/api-testing-01-serverest/tree/main))
 
 
 
