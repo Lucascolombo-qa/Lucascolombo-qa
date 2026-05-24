@@ -20,14 +20,10 @@ Acredito que a qualidade não acontece apenas no final do processo, por isso gos
 ### 🚀 API Testing 01: ServeRest
 * **Descrição:** Automação de testes de ponta a ponta (E2E) em uma API REST de e-commerce. O foco foi garantir a integridade dos dados e a qualidade das funcionalidades críticas do sistema.
 * **Principais atividades:**
-    * Criação de cenários de testes utilizando BDD (Gherkin).
     * Automação de fluxos de login e checkout.
     * Validações de status codes, schema e corpo de resposta com Postman e JavaScript.
 * **Tecnologias:** Postman, JavaScript e API Testing.
-* **Visualização do fluxo:**
-    ![Fluxo do Projeto](Images/img1.png)
-
-🔗 **[Acesse o repositório do projeto](https://github.com/Lucascolombo-qa/api-testing-01-serverest/tree/main)**
+🔗 **[Link do projeto](https://github.com/Lucascolombo-qa/api-testing-01-serverest/tree/main)**
 
 
 
