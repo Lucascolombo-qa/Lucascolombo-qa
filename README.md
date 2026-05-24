@@ -1,8 +1,8 @@
 # Olá, eu sou o Lucas Colombo! 👋
 
 ## 👤​ Sobre mim
-   Sou um **Analista de Testes** focado em garantir a qualidade, confiabilidade e o valor das entregas de software. Atuo na validação de ponta a ponta, analisando desde os critérios de aceitação de **User Stories** completas até a execução de testes funcionais, de API e estou estudando a parte de automação.
-   Acredito que a qualidade não acontece apenas no final do processo, por isso gosto de trabalhar em estreita colaboração com times de desenvolvimento utilizando metodologias ágeis e fluxos de trabalho organizados (como **Gitflow**).
+Sou um **Analista de Testes** focado em garantir a qualidade, confiabilidade e o valor das entregas de software. Atuo na validação de ponta a ponta, analisando desde os critérios de aceitação de **User Stories** completas até a execução de testes funcionais, de API e estou estudando a parte de automação.
+Acredito que a qualidade não acontece apenas no final do processo, por isso gosto de trabalhar em estreita colaboração com times de desenvolvimento utilizando metodologias ágeis e fluxos de trabalho organizados (como **Gitflow**).
 
 
 ## ⚡ Habilidades e tecnologias
@@ -15,8 +15,8 @@
 ## 📂 Projetos em destaque (Em andamento)
 
 
-### 1. [Nome do seu principal repositório de testes]
-*   **Descrição:** [Ex: Framework de testes automatizados ponta a ponta para uma plataforma de e-commerce fictícia.]
+### 1. [Projeto 1]
+*   **Descrição:** [Framework de testes automatizados ponta a ponta para uma plataforma de e-commerce fictícia.]
 *   **O que foi feito:** Escrita dos cenários de teste em BDD (Gherkin), automação do fluxo de login e checkout, e validação de requisições de API usando o framework Postman.
 *   [Link para o Repositório](url-do-repositorio)
 
