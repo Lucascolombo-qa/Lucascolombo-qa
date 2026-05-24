@@ -22,8 +22,8 @@ Acredito que a qualidade não acontece apenas no final do processo, por isso gos
 * **Principais atividades:**
     * Automação de fluxos de login e checkout.
     * Validações de status codes, schema e corpo de resposta com Postman e JavaScript.
-* **Tecnologias:** Postman, JavaScript e API Testing.
-🔗 **[Link do projeto](https://github.com/Lucascolombo-qa/api-testing-01-serverest/tree/main)**
+* **Tecnologias:** Postman e JavaScript.
+* 🔗 **[Link do projeto](https://github.com/Lucascolombo-qa/api-testing-01-serverest/tree/main)**
 
 
 
