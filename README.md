@@ -17,7 +17,7 @@ Acredito que a qualidade não acontece apenas no final do processo, por isso gos
 ## 📂 Meus projetos
 
 
-### 🚀 API Testing 01 - ServeRest Project
+### API Testing 01 - ServeRest Project
 * **Descrição:** Automação de testes de ponta a ponta (E2E) em uma API REST de e-commerce. O foco foi garantir a integridade dos dados e a qualidade das funcionalidades críticas do sistema.
 * **Principais atividades:**
     * Automação de fluxos de login e checkout.
