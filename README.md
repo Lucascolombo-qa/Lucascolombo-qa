@@ -1,4 +1,6 @@
-<img align="center" src="images/Welcome.png" width="75%" alt="Banner do perfil">
+<div align="center">
+<img src="images/Welcome.png" width="70%" alt="Banner do perfil">
+</div>
 
 <h2 align="center">👤︎ Sobre mim</h2>
 
