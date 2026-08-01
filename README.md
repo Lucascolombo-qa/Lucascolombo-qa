@@ -70,6 +70,7 @@ Acredito que a qualidade não acontece apenas no final do processo, por isso gos
   <a href="https://www.linkedin.com/in/lucas-neves-3b807225a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <br>
   <a href="mailto:colombo.neves.lucas@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
