@@ -1,12 +1,12 @@
 <img src="images/Welcome.png" width="100%" alt="Banner do perfil">
 
-## 👤​ Sobre mim
+<h2 align="center">👤︎ Sobre mim</h2>
 Sou um **Analista de Testes** focado em garantir a qualidade, confiabilidade e o valor das entregas de software. Atuo na validação de ponta a ponta, analisando desde os critérios de aceitação de **User Stories** completas até a execução de testes funcionais, de API e estou estudando a parte de automação.
 Acredito que a qualidade não acontece apenas no final do processo, por isso gosto de trabalhar em estreita colaboração com times de desenvolvimento utilizando metodologias ágeis e fluxos de trabalho organizados, como  o Gitflow.
 
 
 
-## ⚡ Habilidades e tecnologias
+<h2 align="center">⚡︎ Habilidades e tecnologias</h2>
 *   **Tipos de Teste:** Testes funcionais, regressão, sanidade, caixa preta e exploratórios.
 *   **Metodologias:** Scrum, Kanban, engenharia de requisitos (análise de critérios de aceitação).
   
@@ -14,7 +14,7 @@ Acredito que a qualidade não acontece apenas no final do processo, por isso gos
 
 
 
-## 📂 Meus projetos
+<h2 align="center">📂︎ Meus projetos</h2>
 
 
 ### API Testing 01 - ServeRest Project
@@ -27,12 +27,12 @@ Acredito que a qualidade não acontece apenas no final do processo, por isso gos
 
 
 
-## 🎓 Certificações
+<h2 align="center">🎓︎ Certificações</h2>
 *   Análise e desenvolvimento de sistemas - Unisinos (Em andamento).
 
 
 
-## 📞 Meus contatos
+<h2 align="center">📞︎ Meus contatos</h2>
 
 <a href="https://www.linkedin.com/in/lucas-neves-3b807225a/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />&nbsp;
