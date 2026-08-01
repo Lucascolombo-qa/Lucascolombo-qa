@@ -1,4 +1,4 @@
-<img src="images/Welcome_Github.png" width="100%" alt="Banner do perfil">
+<img src="images/Welcome.png" width="100%" alt="Banner do perfil">
 
 ## 👤​ Sobre mim
 Sou um **Analista de Testes** focado em garantir a qualidade, confiabilidade e o valor das entregas de software. Atuo na validação de ponta a ponta, analisando desde os critérios de aceitação de **User Stories** completas até a execução de testes funcionais, de API e estou estudando a parte de automação.
