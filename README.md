@@ -31,9 +31,6 @@ Acredito que a qualidade não acontece apenas no final do processo, por isso gos
   <table>
     <tr>
       <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api?username=Lucascolombo-qa&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&text_color=cccccc&icon_color=ffffff&bg_color=0d1117" alt="GitHub Stats" height="150" />
-      </td>
-      <td align="center" valign="middle">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucascolombo-qa&theme=dark&hide_border=true&background=0d1117&fire=ffffff&ring=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideTitle=ffffff&dates=ffffff" alt="GitHub Streak" height="150" />
       </td>
     </tr>
