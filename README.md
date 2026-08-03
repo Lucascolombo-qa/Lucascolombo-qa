@@ -55,7 +55,7 @@ Acredito que a qualidade não acontece apenas no final do processo, por isso gos
 
 
 ### Testes funcionais integrados com o Jira
-* **Descrição:** Realização de testes funcionais ponta a ponta (E2E) em um e-commerce fictício utilizando o Jira Software. Criação de uma arquitetura completa com épicos, hisórias de usuários, sub-taks e bug-reports, além da identificação e documentação de falhas críticas nas regras de negócio.
+* **Descrição:** Realização de testes funcionais ponta a ponta (E2E) em um e-commerce fictício utilizando o Jira Software. Criação de uma arquitetura completa com épicos, histórias de usuários, sub-taks e bug-reports, além da identificação e documentação de falhas críticas nas regras de negócio.
 * **Principais atividades:**
   * Autenticação de usuário;
   * Gestão de defeitos;
