@@ -48,12 +48,22 @@ Acredito que a qualidade não acontece apenas no final do processo, por isso gos
 
 <h2 align="center">Meus projetos</h2>
 
-### API Testing 01
+### Teste automatizado de API 01
 * **Descrição:** Automação de testes de ponta a ponta (E2E) em uma API REST de e-commerce. O foco foi garantir a integridade dos dados e a qualidade das funcionalidades críticas do sistema.
 * **Principais atividades:**
-  * Automação de fluxos de login e checkout.
+  * Automação de fluxos de login e checkout;
   * Validações de status codes, schema e corpo de resposta com Postman e JavaScript.
 * **Tecnologias:** Postman e JavaScript.
+* **[Link do projeto](https://github.com/Lucascolombo-qa/api-testing-01-serverest/tree/main)**
+
+
+### Testes funcionais integrados com o Jira
+* **Descrição:** Realização de testes funcionais ponta a ponta (E2E) em um e-commerce fictício utilizando o Jira Software. Criação de uma arquitetura completa com épicos, hisórias de usuários, sub-taks e bug-reports, além da identificação e documentação de falhas críticas nas regras de negócio.
+* **Principais atividades:**
+  * Autenticação de usuário;
+  * Gestão de defeitos;
+  * Testes E2E separados por módulos.
+* **Tecnologias:** Jira Software, SauceDemo, metodologia ágil como Scrum e Kanban.
 * **[Link do projeto](https://github.com/Lucascolombo-qa/api-testing-01-serverest/tree/main)**
 
 <br>
