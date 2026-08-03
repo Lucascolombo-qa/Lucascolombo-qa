@@ -62,9 +62,10 @@ Acredito que a qualidade não acontece apenas no final do processo, por isso gos
 * **Principais atividades:**
   * Autenticação de usuário;
   * Gestão de defeitos;
-  * Testes E2E separados por módulos.
-* **Tecnologias:** Jira Software, SauceDemo, metodologia ágil como Scrum e Kanban.
-* **[Link do projeto](https://github.com/Lucascolombo-qa/api-testing-01-serverest/tree/main)**
+  * Testes E2E separados por módulos;
+  * Criação de uma arquitetura completa em formato de sprint;
+* **Tecnologias:** Jira Software, SauceDemo, metodologia ágil Scrum e Kanban.
+* **[Link do projeto](https://github.com/Lucascolombo-qa/Funcional_tests_integrated_with_Jira-)**
 
 <br>
 
